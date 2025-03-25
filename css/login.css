@@ -1,0 +1,27 @@
+
+/* css navbar Code */
+.navbar a span{
+    color: #F28513;
+}
+.navbar a img{
+    height: 24px;
+    margin-right: 10px;
+}
+.navbar a{
+    margin-left: 23px;
+}
+.navbar a:hover{
+    font-weight: bold;
+}
+/* End css navbar Code */
+
+.d-flex button{
+    background-color: #F28513; 
+    color: white;
+}
+
+
+.footer li a:hover{
+    font-weight: bold;
+}
+

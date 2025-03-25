@@ -1,0 +1,82 @@
+/* css navbar Code */
+.navbar a span{
+    color: #F28513;
+}
+.navbar a img{
+    height: 24px;
+    margin-right: 10px;
+}
+.navbar a{
+    margin-left: 23px;
+}
+.navbar a:hover{
+    font-weight: bold;
+}
+/* End css navbar Code */
+
+.box1 th img{
+    width: 100px;
+    
+}
+
+.card{
+    background-color: #353535;
+    border-radius: 15px;
+}
+
+.card-body ul li{
+    background-color: #353535;
+    color: #ffffff;
+}
+
+.card h5{
+    color: #ffffff;
+    font-size: 200%;
+    text-align: center;
+}
+
+.form-check-input:checked {
+    background-color: #F28513;
+    border-color: #F28513;
+}
+
+.form-check label{
+    color:white;
+}
+
+.card-body a{
+    color: #ffffff;
+    border: 1px solid#F28513;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    border-radius: 15px;
+}
+
+.payment{
+    background-color: #F28513;
+    color: white;
+}
+
+.colg{
+    margin-bottom: 15%;
+}
+
+.box1{
+    margin-top: 5%;
+}
+
+
+.pname{
+    font-weight: bold; 
+}
+
+
+.d-flex button{
+    background-color: #F28513; 
+    color: white;
+}
+
+
+.footer li a:hover{
+    font-weight: bold;
+}

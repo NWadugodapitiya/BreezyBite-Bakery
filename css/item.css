@@ -1,0 +1,346 @@
+/* css navbar Code */
+.navbar a span{
+    color: #F28513;
+}
+.navbar a img{
+    height: 24px;
+    margin-right: 10px;
+}
+.navbar a{
+    margin-left: 23px;
+}
+.navbar a:hover{
+    font-weight: bold;
+}
+.navbar{
+    margin-bottom: 5%;
+}
+/* End css navbar Code */
+
+
+.pbox{
+    background-color: #F0F0F0;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin: auto;
+    margin-bottom: 5%;
+    display: block;
+}
+
+ .card{
+    width: 99%;
+    margin: auto;
+    background-color: #F0F0F0;
+    border: none;
+    display: block;
+}   
+
+.demo {
+    width: 100%;
+ } 
+
+.demo .thumbimg{
+   width: 100%;
+   height: 100%;
+   border-radius: 5%;
+   display: block;
+} 
+
+
+
+.tetxpart .heding{
+    text-align: left;
+    font-weight: bold;
+    margin-top: 6%;
+}
+
+.tetxpart .rating{
+    width: 25%;
+}
+
+.tetxpart .price{
+    font-weight: bold;
+    margin-top: 7%;
+}
+
+.tetxpart h4{
+    margin-top: 10%;
+    margin-left: 2%;
+}
+
+.tetxpart input{
+    width: 150px;
+    height: 50px;
+    font-size: 200%;
+    margin-bottom: 15%;
+    border-radius: 15px;
+    border: 1px #000000;
+}
+
+.tetxpart a{
+    background-color: #F28513;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 185%;
+    border-radius: 13px;
+    font-weight: bold;
+    color:#ffffff;
+    text-decoration: none;
+    margin: auto;
+}
+
+.tetxpart .hartadd{
+    width: 70px;
+    margin: auto;
+    margin-left: 5%;
+    margin-top: -2%;
+
+}
+
+.pro{
+    margin-left: 15%;
+    background-color: #e4e4e4;
+    height: 400px;
+    width: 260px;
+    margin: auto;
+    border-radius: 5%;
+    border: 1px solid #d4d4d4;
+    transform-style: preserve-3d;
+}
+.col-lg-3{
+    margin-bottom: 3%;
+}
+.pro img{
+    width: 260px;
+}
+
+.pro h5{
+    font-size: 120%;
+    margin-left: 2%;
+}
+.pro h4{
+    font-size: 125%;
+    font-weight: bold;
+    text-align: end;
+    margin-top: -4%; 
+    margin-right: 5%;
+}
+
+.pro .rating{
+    width: 63px;
+    margin-top: -21%;
+    margin-left: 5%;
+}
+
+.pro .image_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 260px;
+    height: 400px;
+    background: #F28513;
+    opacity: 0;
+    border-radius: 15px;
+}
+
+.col-lg-3 .pro img{
+    border-radius: 15px;
+}
+
+.pro.animate .image_overlay {
+    opacity: 0.5;
+    transition: all 200ms ease-out;
+}
+
+.pro .view_details {
+    position: absolute;
+    top: 112px;
+    left: 50%;
+    margin-left: -85px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 0;
+    width: 172px;
+    opacity: 0;
+    transition: all 200ms ease-out;
+}
+.pro .view_details:hover {
+    background: #fff;
+    color: #F28513;
+    cursor: pointer;
+}
+.pro.animate .view_details {
+    opacity: 1;
+    width: 152px;
+    font-size: 15px;
+    margin-left: -75px;
+    top: 175px;
+    transition: all 200ms ease-out;
+}
+
+.likep h2{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.container-fluid{
+    background-color:#F0F0F0;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/*  */
+
+
+.ratingandreviewsmain{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.rating h4{
+    background-color: #F0F0F0;
+    padding: 5%;
+    border-radius: 15px;
+    border: 1px solid #c7c7c7;
+}
+
+.reviews h4{
+    background-color: #F0F0F0;
+    padding: 2.6%;
+    border-radius: 15px;
+    border: 1px solid #c7c7c7;
+    margin-bottom: 5%;
+}
+
+.ratingbox1{
+    margin-top: 10%;
+    background-color: #F0F0F0;
+    border-radius: 15px;
+    padding-bottom: 7%;
+    border: 1px solid #c7c7c7;
+}
+
+.ratingbox1 h1{
+    font-weight: bold;
+    font-size: 350%;
+    margin-left: 38%;
+    padding-top: 5%;
+}
+
+.ratingbox1 h1 span{
+    font-size: 30%;
+    font-weight: normal;
+}
+.ratingbox1 img{
+    height: 22px;
+    margin-left: 35%;
+}
+.ratingbox1 h4{
+    text-align: center;
+    font-size: 100%;
+    padding: 2%;
+}
+
+.ratingbox1 h3{
+    text-align: left;
+    font-size: 105%;
+    margin-top: 5%;
+    padding-left: 7%;
+}
+
+.ratingbox1 h2{
+    text-align: right;
+    font-size: 100%;
+    margin-left: -3%;
+    margin-top: -7%;
+}
+
+.ratingbox1 .shcar{
+    width: 45px;
+    height:20px;
+    margin-top: -7%;
+    margin-left: 8%;
+}
+
+
+.progress{
+    width: 250px; 
+    height: 10px;
+    margin-top: -5.3%;
+    background-color: #c7c7c7;
+}
+
+.nav2{
+    margin-left: 9%;
+}
+
+.accordion{
+    margin-top: 5%;
+    border-radius: 15px;
+    margin-bottom: 5%;
+}
+.accordion-item
+.accordion-button{
+    background-color: #F0F0F0;
+}
+
+
+.reviewsbox{
+    width: 350px;
+    background-color: #F0F0F0;
+    border: 1px solid #c7c7c7;
+    border-radius: 15px;
+    margin-left: 2%;
+    margin: auto;
+    margin-bottom: 4%;
+
+}
+
+
+.reviewsbox h5{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.reviewsbox h3{
+    padding-left: 5%
+}
+
+.reviewsbox img{
+    width: 115px;
+    margin-left: 65%;
+    margin-top: -35%;
+}
+
+.reviewsbox p{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: -5%;
+}
+
+.reviewsbox .date{
+    padding-left: 5%;
+    margin-top: -6%;
+}
+
+/*  */
+
+
+
+
+.d-flex button{
+    background-color: #F28513; 
+    color: white;
+}
+
+
+.footer li a:hover{
+    font-weight: bold;
+}

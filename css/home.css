@@ -1,0 +1,359 @@
+/* css navbar Code */
+.navbar a span{
+    color: #F28513;
+}
+.navbar a img{
+    height: 24px;
+    margin-right: 10px;
+}
+.navbar a{
+    margin-left: 23px;
+}
+.navbar a:hover{
+    font-weight: bold;
+}
+/* End css navbar Code */
+
+/* css slide code */
+.slid1 h4{
+    font-family: 'Roboto Slab', serif;
+    color: #F28513;
+    font-size: 200%;
+}
+.slid1 h4 span{
+    color: #fde9c4;
+}
+.slid1 h5{
+    font-size: 850%; font-family: 'Roboto Slab', serif;
+    color:#fde9c4;
+}
+.slid1 p{
+    font-size: 270%; margin-bottom: 50px;font-family: 'Roboto Slab', serif;
+    color: #fde9c4;
+}
+.slid2{
+    margin-bottom: 20%;;
+    margin-left: 60%;
+    margin-right: -15%;
+}
+.slid2 h5{
+    font-family: 'Kanit', sans-serif;
+    color: #3f392e;
+    font-size: 250%;
+    font-weight: bold;
+}
+.slid3{
+    margin-left: -60%;
+}
+.slid3 h5{
+    font-family: 'Rubik', sans-serif;
+    font-size: 350%;
+}
+.slid3 p{
+    font-family: 'Rubik', sans-serif;
+    font-size: 150%;
+    color: #a8794b;
+}
+.slid3 p span{
+    font-size: 300%;
+    color: black;
+}
+/* End css slide code */
+
+/* css Categories code */
+.Categories h3{
+    text-align: center;
+    font-weight: bold;
+    padding: 3%;
+}
+.col-lg-2{
+    /* width: 18%; */
+    background-color: #F2E0CD;
+    height: auto;
+    width: 180px; 
+    border-radius: 5%;
+    margin:auto;
+    margin-bottom: 7%;
+    border: 1px solid #d4d4d4;
+}
+.col-lg-2 a{
+    text-decoration: none;
+    color: black;
+}
+.col-lg-2 h4{
+    text-align: center;
+    padding-top: 10%;
+    font-weight: bold;
+}
+/* End css Categories code */
+
+/*  */
+.box1{
+    background-color: #F0F0F0;
+    border-radius: 15px;
+    margin: auto;
+    margin-bottom: 10%;
+    border: 1px solid #d4d4d4;
+}
+.box1 h4{
+    text-align: center;
+    padding: 12px;
+}
+.box2{
+    background-color: #F0F0F0;
+    border-radius: 15px;
+    margin: auto;
+    margin-bottom: 3%;
+    border: 1px solid #d4d4d4;
+}
+.box2 h4{
+    text-align: center;
+    padding: 12px;
+}
+.Offerbox1{
+    background-color: #F2E0CD;
+    height: 350px;
+    width: 250px;
+    border-radius: 5%;
+    margin: auto;
+    margin-bottom: 10%;
+    border: 1px solid #d4d4d4;
+    text-align:center;
+}
+.Offerbox2{
+    background-color: #F2E0CD;
+    height: 400px;
+    width: 250px;
+    border-radius: 5%;
+    margin: auto;
+    margin-bottom: 10%;
+    border: 1px solid #d4d4d4;
+    text-align:center;
+}
+.Offerbox1 h2,
+.Offerbox2 h2{
+    font-size: 220%;
+    padding-top: 5%;
+}
+.but{
+    background-color: #F28513;
+    color: white;
+    font-size: 140%;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 28%;
+    margin-left: 67%;
+    margin-top: -5%;
+    
+}
+.Offerbox1 img,
+.Offerbox2 img{
+    width: 100%;
+    padding-bottom: 10px;
+    padding: 5%;
+    margin-top: -25%;
+}
+.Offerbox1 a:link,
+.Offerbox1 a:visited,
+.Offerbox2 a:link,
+.Offerbox2 a:visited{
+    background-color: #F28513;
+    color: white;
+    text-align: center;
+    padding: 4%;
+    padding-left: 15%;
+    padding-right: 15%;
+    border-radius: 15px;
+    text-decoration: none;
+    font-size: 135%;
+}
+.Offerbox1 a:hover,
+.Offerbox2 a:hover{
+    background-color: transparent;
+    border: 1px solid #F28513 ;
+    color: black;
+}
+.Offert{
+    background-color:#F28513; 
+    height: 220px; 
+    border-radius: 5%; 
+    margin: auto; 
+    margin-bottom: 10%;
+    border: 1px solid #d4d4d4;
+}
+.Offert h2{
+    text-align: center; 
+    color: white; 
+    padding-top: 4%; 
+    font-size:220%;
+}
+.Offert h4{
+    text-align: center; 
+    color: #ffffff;
+    font-size: 120%;
+}
+.timeminutes{
+    width: 30%; 
+    height: 79px; 
+    background-color: #ffffff;
+    border-radius: 10%; 
+    margin: auto;
+    font-weight: bold; 
+    font-size: 350%; 
+    margin-left: 13%;
+}
+.time{
+    width:0;
+    color: #ffffff; 
+    margin: auto;
+    margin-left: -3px; 
+    font-weight: bold; 
+    font-size: 4em;
+}
+.timeseconds{
+    width: 30%; 
+    height: 79px; 
+    background-color: #ffffff;
+    border-radius: 10%; 
+    margin: auto; 
+    font-weight: bold; 
+    font-size: 350%; 
+    margin-right: 13%;
+}
+.product-card{
+    background-color:#F0F0F0; 
+    width: 272px; 
+    height: 235px; 
+    border-radius: 5%; 
+    margin: auto; 
+    margin-bottom: 5%;
+    border: 1px solid #d4d4d4;
+    transform-style: preserve-3d;
+}
+.product-card img{
+    width: 271px; 
+    border-radius: 5%; 
+    margin: auto; 
+    margin-left: -5%;
+}
+.product-card .image_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #F28513;
+    opacity: 0;
+    border-radius: 11px;
+}
+.product-card.animate .image_overlay {
+    opacity: 0.7;
+    transition: all 200ms ease-out;
+}
+.product-card .view_details {
+    position: absolute;
+    top: 112px;
+    left: 50%;
+    margin-left: -85px;
+    border: 2px solid #fff;
+    color: #fff;
+    font-size: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 10px 0;
+    width: 172px;
+    opacity: 0;
+    transition: all 200ms ease-out;
+}
+.product-card .view_details:hover {
+    background: #fff;
+    color: #F28513;
+    cursor: pointer;
+}
+.product-card.animate .view_details {
+    opacity: 1;
+    width: 152px;
+    font-size: 15px;
+    margin-left: -75px;
+    top: 115px;
+    transition: all 200ms ease-out;
+}
+.product-card h4{
+    font-size: 140%;
+}
+.product-card h2{
+    font-size: 145%;
+    font-weight: bold;
+    margin-left: 72%;
+    margin-top: -8%;
+}
+.popularc{
+    width: 400px;
+    height: 375px;
+    margin: auto;
+    background-color: #F2E0CD;
+    border-radius: 15px;
+    margin-bottom: 10%;
+}
+
+.popularc img{
+    width: 400px; 
+    border-radius: 15px;
+    margin: auto; 
+    margin-left: -3.3%;
+}
+.popularc h2{
+    margin-left: 3%;
+    font-weight: bold;
+    font-size: 140%;
+}
+.popularc .rate{
+    width: 30%;
+    margin-left: 3%;
+}
+.popularc h3{
+    display: inline;
+    font-weight: bold;
+    margin-left: 30%;
+}
+.container-fluid{
+    background-color: #F2E0CD; 
+    height: auto;
+}
+.reviews h2{
+    text-align: center;
+    margin-top: 5%;
+    display: block;
+    font-size: 300%;
+}
+.reviews1{
+    background-color: white; 
+    width: 350px; 
+    height: 250px;
+    border-radius: 5%; 
+    margin: auto; 
+    margin-top: 3%; 
+    margin-bottom:9%;
+    border: 1px solid #d4d4d4;
+}
+.reviews1 h5{
+    margin-top: 5%;
+}
+.reviews1 img{
+    height: 20px; 
+    margin-left: 60%;
+    margin-top: -30%;
+}
+.reviews1 p{
+    margin-top: -6%;
+}
+.d-flex button{
+    background-color: #F28513; 
+    color: white;
+}
+
+
+.footer li a:hover{
+    font-weight: bold;
+}
